@@ -39,7 +39,7 @@
 
         l_ctrl {
             bindings = <&kp LCTRL>;
-            key-positions = <16 17>;
+            key-positions = <28 29>;
         };
     };
 
