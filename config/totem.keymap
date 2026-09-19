@@ -60,7 +60,7 @@
          &kp GRAVE  &kp N9        &kp N0    &kp MINUS     &kp EQUAL    &kp HOME        &kp PAGE_DOWN   &kp PAGE_UP   &kp END          &none
          &none      &kp N5        &kp N6    &kp N7        &kp N8       &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &none
 &kp ESC  &kp CLCK   &kp NUMBER_1  &kp N2    &kp NUMBER_3  &kp N4       &kp BACKSPACE   &kp DELETE      &kp INSERT    &none            &none  &none
-                                  &kp BSLH  &none         &kp ENTER    &kp LSHFT       &none           &kp RALT
+                                  &kp BSLH  &mo 2         &kp ENTER    &kp LSHFT       &trans          &kp RALT
             >;
         };
 
@@ -69,7 +69,7 @@
        &none  &kp F9  &kp F10  &kp F11  &kp F12    &mkp LCLK       &msc SCRL_UP    &none         &none            &none
        &none  &kp F5  &kp F6   &kp F7   &kp F8     &mmv MOVE_LEFT  &mmv MOVE_DOWN  &mmv MOVE_UP  &mmv MOVE_RIGHT  &none
 &none  &none  &kp F1  &kp F2   &kp F3   &kp F4     &mkp RCLK       &msc SCRL_DOWN  &none         &none            &none  &none
-                      &none    &none    &none      &none           &none           &kp LCTRL
+                      &none    &trans   &none      &none           &mo 1           &kp LCTRL
             >;
         };
 
