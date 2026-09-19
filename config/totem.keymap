@@ -52,7 +52,7 @@
 
         nav_num {
             bindings = <
-         &kp TILDE  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp EQUAL    &kp HOME        &kp PAGE_DOWN   &kp PAGE_UP   &kp END          &none
+         &kp GRAVE  &kp NUMBER_7  &kp NUMBER_8  &kp NUMBER_9  &kp EQUAL    &kp HOME        &kp PAGE_DOWN   &kp PAGE_UP   &kp END          &none
          &none      &kp NUMBER_4  &kp NUMBER_5  &kp NUMBER_6  &kp MINUS    &kp LEFT_ARROW  &kp DOWN_ARROW  &kp UP_ARROW  &kp RIGHT_ARROW  &none
 &kp ESC  &kp CLCK   &kp NUMBER_1  &kp NUMBER_2  &kp NUMBER_3  &kp BSLH     &kp BACKSPACE   &kp DELETE      &kp INSERT    &none            &none  &none
                                   &kp NUMBER_0  &none         &kp ENTER    &kp LSHFT       &none           &kp RALT
