@@ -26,10 +26,10 @@
 
         sym_func {
             bindings = <
-           &kp ESC        &kp LEFT_BRACE        &kp RIGHT_BRACE        &none             &none             &trans  &trans  &trans  &trans  &trans
-           &kp TAB        &kp LBKT              &kp RBKT               &kp ENTER         &kp BSLH          &trans  &trans  &trans  &trans  &trans
-&kp GRAVE  &kp LESS_THAN  &kp LEFT_PARENTHESIS  &kp RIGHT_PARENTHESIS  &kp GREATER_THAN  &kp UNDERSCORE    &trans  &trans  &trans  &trans  &trans  &trans
-                                                &trans                 &trans            &trans            &trans  &trans  &trans
+        &trans  &trans  &trans  &none   &none     &trans  &trans  &trans  &trans  &trans
+        &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans
+&trans  &trans  &trans  &trans  &trans  &trans    &trans  &trans  &trans  &trans  &trans  &trans
+                        &trans  &trans  &trans    &trans  &trans  &trans
             >;
         };
 
