@@ -41,6 +41,46 @@
             bindings = <&kp LCTRL>;
             key-positions = <28 29>;
         };
+
+        excl_sign {
+            bindings = <&kp EXCL>;
+            key-positions = <3 2>;
+        };
+
+        at_sign {
+            bindings = <&kp AT>;
+            key-positions = <6 7>;
+        };
+
+        hash_sign {
+            bindings = <&kp HASH>;
+            key-positions = <13 12>;
+        };
+
+        dllr_sign {
+            bindings = <&kp DLLR>;
+            key-positions = <16 17>;
+        };
+
+        prcnt_sign {
+            bindings = <&kp PRCNT>;
+            key-positions = <23 24>;
+        };
+
+        caret_sign {
+            bindings = <&kp CARET>;
+            key-positions = <27 28>;
+        };
+
+        amps_sign {
+            bindings = <&kp AMPS>;
+            key-positions = <2 1>;
+        };
+
+        star_sign {
+            bindings = <&kp STAR>;
+            key-positions = <7 8>;
+        };
     };
 
     keymap {
