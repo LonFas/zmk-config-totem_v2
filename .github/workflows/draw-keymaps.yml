@@ -11,4 +11,3 @@ jobs:
     uses: caksoylar/keymap-drawer/.github/workflows/draw-zmk.yml@main
     with:
       keymap_patterns: "config/totem.keymap"
-      config_path: "config/keymap_drawer.config.yaml"
